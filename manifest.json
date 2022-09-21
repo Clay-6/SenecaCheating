@@ -4,7 +4,9 @@
     "version": "1.0",
     "content_scripts": [
         {
-            "matches": "https://app.senecalearning.com/classroom/course/*/section/*/session",
+            "matches": [
+                "https://app.senecalearning.com/classroom/course/*/section/*/session"
+            ],
             "css": [
                 "most.css"
             ]
