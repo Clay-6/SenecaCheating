@@ -5,7 +5,7 @@
     "content_scripts": [
         {
             "matches": [
-                "https://app.senecalearning.com/classroom/course/*/section/*/session"
+                "https://app.senecalearning.com/classroom/course/**/session"
             ],
             "css": [
                 "most.css"
