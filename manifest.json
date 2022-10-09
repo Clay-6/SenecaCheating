@@ -8,7 +8,7 @@
                 "https://app.senecalearning.com/classroom/course/*/session"
             ],
             "css": [
-                "most.css"
+                "unhide.css"
             ]
         }
     ]
