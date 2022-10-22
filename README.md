@@ -1,5 +1,9 @@
 # SenecaCheating
 
-A small browser extension to reveal the answers to questions on
-[Seneca](https://senecalearning.com). Works just by having the
-extenstion installed & enabled.
+A small firefox extension to reveal the answers to blank-fill
+questions on [Seneca](https://senecalearning.com). Works just
+by having the extenstion installed & enabled.
+
+## Installation
+
+Install from the Firefox extension store [here](https://addons.mozilla.org/en-GB/firefox/addon/senecacheating/)
