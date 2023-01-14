@@ -1,6 +1,7 @@
 {
     "manifest_version": 2,
     "name": "SenecaCheating",
+    "description": "Reveal answers to blank-fill question types on SenecaLearning",
     "version": "1.0.1",
     "content_scripts": [
         {
