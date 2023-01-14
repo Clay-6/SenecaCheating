@@ -9,7 +9,7 @@
                 "https://app.senecalearning.com/*"
             ],
             "css": [
-                "unhide.css"
+                "src/css/unhide.css"
             ]
         }
     ]
