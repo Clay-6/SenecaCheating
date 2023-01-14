@@ -6,10 +6,10 @@
     "content_scripts": [
         {
             "matches": [
-                "https://app.senecalearning.com/*"
+                "*://app.senecalearning.com/*"
             ],
             "css": [
-                "src/css/unhide.css"
+                "src/unhide.css"
             ]
         }
     ]
