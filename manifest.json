@@ -15,6 +15,7 @@
     ],
     "browser_action": {
         "default_icon": "icon.svg",
+        "default_popup": "popup/autofill.html",
         "default_title": "Autofill Answer"
     }
 }
