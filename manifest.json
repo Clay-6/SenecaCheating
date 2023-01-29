@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "SenecaCheating",
     "description": "Reveal answers to blank-fill question types on SenecaLearning",
     "version": "1.0.1",
@@ -12,10 +12,5 @@
                 "src/unhide.css"
             ]
         }
-    ],
-    "browser_action": {
-        "default_icon": "icon.svg",
-        "default_popup": "popup/autofill.html",
-        "default_title": "Autofill Answer"
-    }
+    ]
 }
