@@ -3,6 +3,9 @@
     "name": "SenecaCheating",
     "description": "Reveal answers to blank-fill question types on SenecaLearning",
     "version": "1.0.1",
+    "host_permissions": [
+        "*://app.senecalearning.com/"
+    ],
     "content_scripts": [
         {
             "matches": [
