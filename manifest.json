@@ -6,6 +6,12 @@
     "host_permissions": [
         "*://app.senecalearning.com/"
     ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{c385031d-6bd4-43b0-8486-38af27126acf}",
+            "strict_min_version": "109.0"
+        }
+    },
     "content_scripts": [
         {
             "matches": [
