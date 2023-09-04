@@ -1,9 +1,10 @@
-.TestedWord_word_placeholder__2xuzY span {
+.TestedWord_word_placeholder__o8cb8 span {
     visibility: visible;
     opacity: 50%;
 }
 
 .BlurredWord__word--blurred span {
-    visibility: visible;
+    /* Please don't override my hax */
+    visibility: visible !important;
     opacity: 50%
 }
