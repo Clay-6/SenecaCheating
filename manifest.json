@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "SenecaCheating",
     "description": "Reveal answers to blank-fill question types on SenecaLearning",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "host_permissions": [
         "*://app.senecalearning.com/"
     ],
