@@ -6,5 +6,10 @@
 .BlurredWord__word--blurred span {
     /* Please don't override my hax */
     visibility: visible !important;
-    opacity: 50%
+    opacity: 50%;
+}
+
+.TestedWord_word_skeleton__7Lz8F span {
+    visibility: visible !important;
+    opacity: 50%;
 }
